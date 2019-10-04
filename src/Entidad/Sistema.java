@@ -24,5 +24,9 @@ public class Sistema {
         this.usuarios = usuarios;
     }
     
+    public void AddUsuario(Usuario usuario){
+        usuarios.add(usuario);
+    }
+    
     
 }
