@@ -36,7 +36,7 @@ public class TestLogin {
     
     @BeforeClass
     public static void setUpClass() throws Exception {
-        ArrayList<Usuario> usuarios= new ArrayList<Usuario>();
+         ArrayList<Usuario> usuarios= new ArrayList<Usuario>();
         
         
         Usuario a= new Usuario();
